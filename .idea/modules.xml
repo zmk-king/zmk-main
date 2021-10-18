@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/Api_demo/Api_demo.iml" filepath="$PROJECT_DIR$/javaSE_Code/Api_demo/Api_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyArrayFile/MyArrayFile.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyArrayFile/MyArrayFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyArrayIO/MyArrayIO.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyArrayIO/MyArrayIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyAwt/MyAwt.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyAwt/MyAwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyClass/MyClass.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyClass/MyClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyClassOne/MyClassOne.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyClassOne/MyClassOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyClassTwo/MyClassTwo.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyClassTwo/MyClassTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyCopyFile/MyCopyFile.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyCopyFile/MyCopyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyFile/MyFile.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyFile/MyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyNet/MyNet.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyNet/MyNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyProperties/MyProperties.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyProperties/MyProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyStream/MyStream.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyStream/MyStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/MyTreeSet/MyTreeSet.iml" filepath="$PROJECT_DIR$/javaSE_Code/MyTreeSet/MyTreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/Mythread/Mythread.iml" filepath="$PROJECT_DIR$/javaSE_Code/Mythread/Mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/StudentDemo/StudentDemo.iml" filepath="$PROJECT_DIR$/javaSE_Code/StudentDemo/StudentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/ThreePoker/ThreePoker.iml" filepath="$PROJECT_DIR$/javaSE_Code/ThreePoker/ThreePoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/Tset_Demo/Tset_Demo.iml" filepath="$PROJECT_DIR$/javaSE_Code/Tset_Demo/Tset_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongMao/day01/day01.iml" filepath="$PROJECT_DIR$/HongMao/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/java01/java01.iml" filepath="$PROJECT_DIR$/maven_project/java01/java01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/java02/java02.iml" filepath="$PROJECT_DIR$/maven_project/java02/java02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE_Code/java_idea/java_idea.iml" filepath="$PROJECT_DIR$/javaSE_Code/java_idea/java_idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/web01/web01.iml" filepath="$PROJECT_DIR$/maven_project/web01/web01.iml" />
+    </modules>
+  </component>
+</project>

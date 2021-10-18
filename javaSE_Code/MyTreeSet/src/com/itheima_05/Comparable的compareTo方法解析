@@ -1,0 +1,18 @@
+TreeSet<Student> ts = new TreeSet<Student>();
+
+Student s1 = new Student("abc",20);
+ts.add(s1);
+//class com.itheima_05.Student cannot be cast to class java.lang.Comparable
+public TreeSet(Comparator<? super E> comparator) {
+    this(new TreeMap<>(comparator));
+}
+
+public boolean add(E e) {
+        return m.put(e, PRESENT)==null;
+    }
+
+V put(K key, V value);
+
+public interface Comparable<T> {
+    public int compareTo(T o);
+}

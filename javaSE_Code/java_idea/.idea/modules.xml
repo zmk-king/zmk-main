@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Api_demo/Api_demo.iml" filepath="$PROJECT_DIR$/../Api_demo/Api_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyArrayFile/MyArrayFile.iml" filepath="$PROJECT_DIR$/../MyArrayFile/MyArrayFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyArrayIO/MyArrayIO.iml" filepath="$PROJECT_DIR$/../MyArrayIO/MyArrayIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyAwt/MyAwt.iml" filepath="$PROJECT_DIR$/../MyAwt/MyAwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyClass/MyClass.iml" filepath="$PROJECT_DIR$/../MyClass/MyClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyClassOne/MyClassOne.iml" filepath="$PROJECT_DIR$/../MyClassOne/MyClassOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyClassTwo/MyClassTwo.iml" filepath="$PROJECT_DIR$/../MyClassTwo/MyClassTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyCopyFile/MyCopyFile.iml" filepath="$PROJECT_DIR$/../MyCopyFile/MyCopyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyFile/MyFile.iml" filepath="$PROJECT_DIR$/../MyFile/MyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyNet/MyNet.iml" filepath="$PROJECT_DIR$/../MyNet/MyNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyProperties/MyProperties.iml" filepath="$PROJECT_DIR$/../MyProperties/MyProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyStream/MyStream.iml" filepath="$PROJECT_DIR$/../MyStream/MyStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyTreeSet/MyTreeSet.iml" filepath="$PROJECT_DIR$/../MyTreeSet/MyTreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mythread/Mythread.iml" filepath="$PROJECT_DIR$/../Mythread/Mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StudentDemo/StudentDemo.iml" filepath="$PROJECT_DIR$/../StudentDemo/StudentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ThreePoker/ThreePoker.iml" filepath="$PROJECT_DIR$/../ThreePoker/ThreePoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tset_Demo/Tset_Demo.iml" filepath="$PROJECT_DIR$/../Tset_Demo/Tset_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_idea.iml" filepath="$PROJECT_DIR$/java_idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_test/java_test.iml" filepath="$PROJECT_DIR$/../java_test/java_test.iml" />
+    </modules>
+  </component>
+</project>

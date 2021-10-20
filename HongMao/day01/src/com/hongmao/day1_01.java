@@ -88,7 +88,7 @@ public class day1_01 {
         int i = sc.nextInt();
         i = i % 10 == 0 ? i / 10 : (i % 10) + 1;
         System.out.println(i);*/
-/*        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("请输入你的工资：");
         int money = scanner.nextInt();
         if (money<=2000){
@@ -97,6 +97,6 @@ public class day1_01 {
             System.out.println("每月还能留几百元");
         }else {
             System.out.println("你可以去尝试谈恋爱了");
-        }*/
+        }
     }
 }
